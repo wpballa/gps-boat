@@ -1,0 +1,1 @@
+Note that the MagPi article has AMA0 where it should have S0 in the systemctl modification lines. AMA0 is appropriate for a Raspberry Pi Zero but S0 is correct for a Zero W.
