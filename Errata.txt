@@ -1,1 +1,0 @@
-Note that the MagPi article has AMA0 where it should have S0 in the systemctl modification lines. AMA0 is appropriate for a Raspberry Pi Zero but S0 is correct for a Zero W. HOWEVER, AMA0 does seem to work in the jessie 6-21-17 distribution, so if you update you should be fine as written.
