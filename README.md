@@ -7,5 +7,7 @@ boat-gpsd.py works for the Pimoroni Scroll pHAT, now obsolete but still availabl
 
 boat-gpsdhd.py works for the Pimoroni Scroll pHAT HD
 Hardware assembly is identical
-The only other change needed, besides loading the HD library from Pimoroni is to change
-the /etc/rc.local startup to point to the hd version of the program
+The only other changes needed, are to load the scrollphatHD library from Pimoroni and
+sudo apt-get install python3-pip
+pip3 install flake 
+and to change the /etc/rc.local startup to point to the hd version of the program
